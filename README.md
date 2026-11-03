@@ -12,7 +12,9 @@ Growth 助手的独立静态主页。暖白/墨绿编辑式视觉；手机适配
 
 ## 权限与发布
 
-仓库 `whaleFallWjl/growth-homepage` 必须保持私有。当前未配置外部部署，没有公开网址。源码仓库私有不代表部署站点私有；后续部署必须单独核对站点可见性与用户授权，不为启用Pages而更改仓库公开性。
+用户已针对本项目明确授权将仓库改为公开，以使用当前账号支持的GitHub Pages。该例外不改变其他项目默认私有的约定。
+
+部署地址：https://whalefallwjl.github.io/growth-homepage/ 。Pages来源为main分支根目录，HTTPS启用。实际上线状态以GitHub构建与线上请求核验为准。
 
 ## 检查
 

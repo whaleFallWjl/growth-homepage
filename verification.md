@@ -18,4 +18,4 @@ Editorial introduction (Decide/Learn), not a status dashboard. Restrained warm p
 
 ## Limits
 
-Browser checks cover sampled sizes and interactions, not all engines or assistive technologies. Copy feedback fallback checked; successful OS clipboard write not established. No backend, authentication, remote deployment or public site exists. Private GitHub source visibility must remain private unless separately authorized.
+Browser checks cover sampled sizes and interactions, not all engines or assistive technologies. Copy feedback fallback checked; successful OS clipboard write not established. No backend or authentication. User explicitly authorized public repository visibility for this project after GitHub rejected Pages on the private repository with HTTP 422. Pages configured from main/root with HTTPS; deployment verification is separate from local checks.
